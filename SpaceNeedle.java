@@ -1,5 +1,4 @@
-// CS210 Assignment #2 "Space Needle"
-// Student name
+// Shyam Ramesh
 
 public class SpaceNeedle {
 	
